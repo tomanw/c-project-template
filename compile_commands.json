@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Iinclude",
+      "-I/usr/local/include",
+      "-o",
+      "dist/build",
+      "src/main.c"
+    ],
+    "directory": "/Users/thomasanwandter/Developer/c-project-template-git",
+    "file": "/Users/thomasanwandter/Developer/c-project-template-git/src/main.c",
+    "output": "/Users/thomasanwandter/Developer/c-project-template-git/dist/build"
+  }
+]
